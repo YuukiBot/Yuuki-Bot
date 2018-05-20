@@ -1,11 +1,6 @@
 
-# Yuuki
- 
-[![Discord](https://discordapp.com/api/guilds/333039959500128256/embed.png)](https://discord.gg/pXDNMAE)
-> Note: This source code, as well as the bot it goes with, are no longer public.
-
 <h1> Yuuki <a href = 'https://discordapp.com/oauth2/authorize?client_id=365949788807757834&scope=bot&permissions=2084043903'>
-    <img src="https://a.safe.moe/4kKNg.png" height="25">
+    <img src="https://media.discordapp.net/attachments/414868965479940096/447618697490726912/asdd.png" height="25">
 </a></h1>
 
 
@@ -27,3 +22,8 @@
 <a href = 'https://discordapp.com/oauth2/authorize?client_id=365907645795794946&scope=bot&permissions=1043721303'>
     <img align="right" src="https://a.safe.moe/hu4ry.png" height="400">
 </a>
+
+# Yuuki
+ 
+[![Discord](https://discordapp.com/api/guilds/333039959500128256/embed.png)](https://discord.gg/pXDNMAE)
+> Note: This source code, as well as the bot it goes with, are no longer public.
