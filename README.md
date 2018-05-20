@@ -5,8 +5,7 @@
 <h1> Yuuki <a href = 'https://discordapp.com/oauth2/authorize?client_id=365907645795794946&scope=bot&permissions=1043721303'>
     <img src="https://a.safe.moe/4kKNg.png" height="25">
 </a></h1>
-# Index
-
+## Index
 - [Website](https://mitorisia.github.io/Komugari/)
 - [Contact](https://yuukibot.github.io/)
 
