@@ -1,5 +1,5 @@
 <a href = 'https://discordapp.com/oauth2/authorize?client_id=365907645795794946&scope=bot&permissions=1043721303'>
-    <img align="right" src="https://a.safe.moe/hu4ry.png" height="400">
+    <img align="right" src="https://media.discordapp.net/attachments/414868965479940096/447618697490726912/asdd.png?width=270&height=270" height="400">
 </a>
 
 <h1> Yuuki <a href = 'https://discordapp.com/oauth2/authorize?client_id=365907645795794946&scope=bot&permissions=1043721303'>
@@ -16,7 +16,7 @@
 #### SERVIDOR SOPORTE DISCORD
 
 <p align="center">
-  <a href="https://discord.gg/abyRgJ8"><img src="https://discordapp.com/api/guilds/333039959500128256/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/hZACuxT"><img src="https://discordapp.com/api/guilds/322209371704786945/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 <a href="https://discordbots.org/bot/365949788807757834">
   <img src="https://discordbots.org/api/widget/365949788807757834.svg" alt="Discord Bots" />
@@ -24,5 +24,5 @@
 
 # Yuuki
  
-[![Discord](https://discordapp.com/api/guilds/333039959500128256/embed.png)](https://discord.gg/pXDNMAE)
+[![Discord](https://discordapp.com/api/guilds/322209371704786945/embed.png)](https://discord.gg/hZACuxT)
 > Note: This source code, as well as the bot it goes with, are no longer public.
